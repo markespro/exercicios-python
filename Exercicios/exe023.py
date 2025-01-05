@@ -1,5 +1,5 @@
-numero = int(input('Informe um número'))
+n = int((input('Informe um número')))
 
-print('Analisando número {}'.format(numero))
+u = n // 1 % 10
 
-
+print(u)
